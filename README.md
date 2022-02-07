@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Puru Vijay's Github Stats](https://metrics.lecoq.io/puruvj)
+<!--![Puru Vijay's Github Stats](https://metrics.lecoq.io/puruvj) -->
 
 ![Puru Vijay's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=puruvj&show_icons=true&count_private=true&theme=gotham)
 
